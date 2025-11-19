@@ -3,7 +3,7 @@ New to the game, hungry to master it.<br>Learning fast. Shipping faster.<br><br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_lochangowda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lochan-gowda-t-m) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_lochangowda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lochangowdatm@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_lochangowda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lochan-gowda-t-m-067151364) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_lochangowda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lochangowdatm@gmail.com) 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
