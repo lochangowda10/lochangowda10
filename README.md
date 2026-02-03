@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Lochan Gowda T M ! 👋<br><br>I am a 1st-year AI & Data Science student passionate about building intelligent systems and solving problems through code. <br>  Currently strengthening my foundation in Python .<br><br>🎓 Focus: Artificial Intelligence, Data Science, and Algorithms.<br><br>🌱 Learning: Python libraries (Pandas, NumPy) and Web Development .<br><br>💼 Goal: To create impactful tech solutions and contribute to open source.
+Hi, I'm Lochan Gowda T M ! 👋<br><br>I am a 1st-year AI & Data Science student passionate about building intelligent systems and solving problems through code. <br>  Currently strengthening my foundation in Python .<br><br>🎓 Focus: Artificial Intelligence, Data Science, and Algorithms.<br><br>💼 Goal: To create impactful tech solutions and contribute to open source.
 
 
 ## 🌐 Socials:
